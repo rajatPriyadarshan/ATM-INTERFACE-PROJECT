@@ -71,7 +71,7 @@ class Data{
         else if(x == 4){
             System.out.println("thank you for using our ATM");
         }else if(x == 5){
-//            ATMop obj = new ATMop();
+            ATMop obj = new ATMop();
             op();
         }
         else{
